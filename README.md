@@ -9,7 +9,6 @@
         province: 'Pozzuoli',
         city: 'Napoli',
         work: 'as Developer in ITDM',
-        instagram: 'https://instagram.com/franiix94',
         hobby: {
             indoor: ['Videogames', 'Fantasy', 'Cinematics'],
             outdoor: ['food experience', 'traveler']

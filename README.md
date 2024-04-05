@@ -2,13 +2,17 @@
 
 ```js
     const profile = {
-      fullName: 'Francesco Scamardella',
-      contact: 'scamardella.fra@gmail.com',
-      country: 'Italy',
-      province: 'Pozzuoli',
-      city: 'Napoli',
-      work: 'as Developer in ITDM',
-      instagram: 'https://instagram.com/franiix94',
-      hobby: ['Videogames', 'Fantasy', 'Cinematics']
+        fullName: 'Francesco Scamardella',
+        pronouns: 'Lord',
+        contact: 'scamardella.fra@gmail.com',
+        country: 'Italy',
+        province: 'Pozzuoli',
+        city: 'Napoli',
+        work: 'as Developer in ITDM',
+        instagram: 'https://instagram.com/franiix94',
+        hobby: {
+            indoor: ['Videogames', 'Fantasy', 'Cinematics'],
+            outdoor: ['food experience', 'traveler']
+        }
     }
 ```
